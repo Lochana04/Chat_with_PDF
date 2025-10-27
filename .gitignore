@@ -1,0 +1,8 @@
+# Hide sensitive files
+.env
+venv/
+venv2/
+__pycache__/
+*.pkl
+*.db
+*.faiss
